@@ -50,7 +50,7 @@ Conheça as pessoas incríveis que fazem a Quickapp acontecer.
 
 <p align="center">
   <a href="https://github.com/engPisa">
-    <img src="https://github.com/pisium/.github/blob/main/profile/assets/profile-picture.png?raw=true" alt="Cesar Pisa"/>
+    <img src="https://github.com/pisium/.github/blob/main/profile/assets/profile-picture.png?raw=true" width="50" alt="Cesar Pisa"/>
     <br />
     <sub><b>Cesar Pisa</b></sub>
   </a>
