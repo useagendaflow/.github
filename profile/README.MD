@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/pisium/.github/profile/assets/blob/main/banner.jpeg?raw=true" alt="logo" width="1080"/>
+  <img src="https://github.com/pisium/.github/blob/main/profile/assets/banner.jpeg?raw=true" alt="banner" width="1080"/>
 </p>
 
 <p></p>
@@ -50,7 +50,7 @@ Conheça as pessoas incríveis que fazem a Quickapp acontecer.
 
 <p align="center">
   <a href="https://github.com/engPisa">
-    <img src="https://github.com/pisium/.github/profile/assets/blob/main/profile-picture.png?raw=true" alt="Cesar Pisa"/>
+    <img src="https://github.com/pisium/.github/blob/main/profile/assets/profile-picture.png?raw=true" alt="Cesar Pisa"/>
     <br />
     <sub><b>Cesar Pisa</b></sub>
   </a>
