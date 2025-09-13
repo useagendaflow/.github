@@ -8,10 +8,10 @@
 <p align="center">
   <em>Nossa missão é blindar sua agenda e proteger seu faturamento com tecnologia inteligente.</em>
   <br/>
-  <a href="usequickapp.com.br"><strong>Explore nosso site »</strong></a>
+  <a href="https://usequickapp.com.br"><strong>Explore nosso site »</strong></a>
   <br/>
   <br/>
-  <a href="usequickapp.com.br/calculate">Calculadora de Prejuízos</a>
+  <a href="https://usequickapp.com.br/calculate">Calculadora de Prejuízos</a>
 </p>
 
 ---
@@ -22,7 +22,7 @@ O “furo” na agenda custa caro. Faltas não comunicadas corroem o faturamento
 
 A Quickapp nasceu para mudar esse cenário.
 
-Nossa missão é blindar sua agenda e proteger seu faturamento com tecnologia inteligente. Criamos uma ferramenta intuitiva que automatiza agendamentos e lembretes, reduzindo faltas e libertando você do WhatsApp.
+Criamos uma ferramenta intuitiva que automatiza agendamentos e lembretes, reduzindo faltas e libertando você do WhatsApp.
 
 ### ✨ O que entregamos
 
@@ -34,23 +34,25 @@ Não se trata somente de organização. Nós oferecemos:
 
 ---
 
-## 🚀 Status
+## 📊 Status
 
 Detalhamento do status do projeto:
 
-| Versão        | Descrição                                         | Tecnologias Principais          | Link do Repositório                               |
-|---------------|---------------------------------------------------|---------------------------------|---------------------------------------------------|
-| **v1.0.0**    | Projeto em fase de MvP e validação de produto.    | `Next.js`, `PrimaDB`,`Google Cloud`,`Flutter` | [Acessar Site](https://userquickapp.com.br)       |
+| Versão        | Descrição                                         | Tecnologias Principais                       | Link                                       |
+|---------------|---------------------------------------------------|----------------------------------------------|--------------------------------------------|
+| **v1.0.0**    | Projeto em fase de MvP e validação de produto.    | `Next.js`, `Prisma`,`Google Cloud`,`Flutter` | [Acessar Site](https://usequickapp.com.br) |
 
 ---
 
 ## 👥 Nossa Equipe
 
-Conheça as pessoas incríveis que fazem parte da nossa organização.
+Conheça as pessoas incríveis que fazem a Quickapp acontecer.
 
 <p align="center">
-  <a href="https://github.com/pisium/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=pisium/landing-page" />
+  <a href="https://github.com/engPisa">
+    <img src="#" alt="Cesar Pisa"/>
+    <br />
+    <sub><b>Cesar Pisa</b></sub>
   </a>
 </p>
 
