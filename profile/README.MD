@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/pisium/.github/blob/main/quickapp.jpeg?raw=true" alt="logo" width="1080"/>
+  <img src="https://github.com/pisium/.github/profile/assets/blob/main/banner.jpeg?raw=true" alt="logo" width="1080"/>
 </p>
 
 <p></p>
@@ -38,7 +38,7 @@ Não se trata somente de organização. Nós oferecemos:
 
 Detalhamento do status do projeto:
 
-| Versão        | Descrição                                         | Tecnologias Principais                       | Link                                       |
+| Versão | Descrição | Tecnologias Principais | Link |
 |---------------|---------------------------------------------------|----------------------------------------------|--------------------------------------------|
 | **v1.0.0**    | Projeto em fase de MvP e validação de produto.    | `Next.js`, `Prisma`,`Google Cloud`,`Flutter` | [Acessar Site](https://usequickapp.com.br) |
 
@@ -50,7 +50,7 @@ Conheça as pessoas incríveis que fazem a Quickapp acontecer.
 
 <p align="center">
   <a href="https://github.com/engPisa">
-    <img src="#" alt="Cesar Pisa"/>
+    <img src="https://github.com/pisium/.github/profile/assets/blob/main/profile-picture.png?raw=true" alt="Cesar Pisa"/>
     <br />
     <sub><b>Cesar Pisa</b></sub>
   </a>
