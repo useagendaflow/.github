@@ -61,8 +61,8 @@ Conheça as pessoas incríveis que fazem parte da nossa organização.
 Conecte-se conosco!
 
 * 💼 **LinkedIn:** [QuickApp.](https://www.linkedin.com/company/usequickapp)
-* 📧 **E-mail:** [contato@saga.cnt.br](mailto:contato@usequickapp.com.br)
-* 🌐 **Website:** [saga.cnt.br](https://usequickapp.com.br)
+* 📧 **E-mail:** [contato@usequickapp.com.br](mailto:contato@usequickapp.com.br)
+* 🌐 **Instagram:** [@usequickapp](https://www.instagram.com/usequickapp)
 
 ---
 <p align="center">
