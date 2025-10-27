@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/pisium/.github/blob/main/profile/assets/banner.jpeg?raw=true" alt="banner" width="1080"/>
+  <img src="https://github.com/useagendaflow/.github/blob/main/profile/assets/banner-v1.png?raw=true" alt="banner" width="1080"/>
 </p>
 
 <p></p>
-<h1 align="center">👋 Bem-vindo(a) à Quickapp!</h1> 
+<h1 align="center">👋 Bem-vindo(a) à AgendaFlow!</h1> 
 
 <p align="center">
   <em>Nossa missão é blindar sua agenda e proteger seu faturamento com tecnologia inteligente.</em>
@@ -11,7 +11,7 @@
   <a href="https://usequickapp.com.br"><strong>Explore nosso site »</strong></a>
   <br/>
   <br/>
-  <a href="https://usequickapp.com.br/calculate">Calculadora de Prejuízos</a>
+  <a href="https://usequickapp.com.br/simulacao">Calculadora de Prejuízos</a>
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 O “furo” na agenda custa caro. Faltas não comunicadas corroem o faturamento e desperdiçam seu tempo e talento.
 
-A Quickapp nasceu para mudar esse cenário.
+A AgendaFlow nasceu para mudar esse cenário.
 
 Criamos uma ferramenta intuitiva que automatiza agendamentos e lembretes, reduzindo faltas e libertando você do WhatsApp.
 
@@ -40,7 +40,7 @@ Detalhamento do status do projeto:
 
 | Versão | Descrição | Tecnologias Principais | Link |
 |---------------|---------------------------------------------------|----------------------------------------------|--------------------------------------------|
-| **v1.0.0**    | Projeto em fase de MvP e validação de produto.    | `Next.js`, `Prisma`,`Google Cloud`,`Flutter` | [Acessar Site](https://usequickapp.com.br) |
+| **v1.0.0**    | Projeto em fase de MvP e validação de produto.    | `Next.js`, `Prisma`,`AWS` | [Acessar Site](https://usequickapp.com.br) |
 
 ---
 
@@ -50,7 +50,7 @@ Conheça as pessoas incríveis que fazem a Quickapp acontecer.
 
 <p align="center">
   <a href="https://github.com/engPisa">
-    <img src="https://github.com/pisium/.github/blob/main/profile/assets/profile-picture.png?raw=true" width="50" alt="Cesar Pisa"/>
+    <img src="https://github.com/useagendaflow/.github/blob/main/profile/assets/profile-picture.png?raw=true" width="50" alt="Cesar Pisa"/>
     <br />
     <sub><b>Cesar Pisa</b></sub>
   </a>
@@ -62,11 +62,11 @@ Conheça as pessoas incríveis que fazem a Quickapp acontecer.
 
 Conecte-se conosco!
 
-* 💼 **LinkedIn:** [QuickApp.](https://www.linkedin.com/company/usequickapp)
-* 📧 **E-mail:** [contato@usequickapp.com.br](mailto:contato@usequickapp.com.br)
-* 🌐 **Instagram:** [@usequickapp](https://www.instagram.com/usequickapp)
+* 💼 **LinkedIn:** [AgendaFlow | Agendamento Inteligente.](https://www.linkedin.com/company/usequickapp)
+* 📧 **E-mail:** [Contato](mailto:contato@usequickapp.com.br)
+* 🌐 **Instagram:** [@useagendaflow](https://www.instagram.com/useagendaflow)
 
 ---
 <p align="center">
-  Feito com ❤️ (c) 2025 PISIUM LTDA.
+  Feito com ❤️ (c) 2025 AgendaFlow Ltda.
 </p>
