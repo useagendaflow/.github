@@ -46,7 +46,7 @@ Detalhamento do status do projeto:
 
 ## 👥 Nossa Equipe
 
-Conheça as pessoas incríveis que fazem a Quickapp acontecer.
+Conheça as pessoas incríveis que fazem a AgendaFlow acontecer.
 
 <p align="center">
   <a href="https://github.com/engPisa">
@@ -62,7 +62,7 @@ Conheça as pessoas incríveis que fazem a Quickapp acontecer.
 
 Conecte-se conosco!
 
-* 💼 **LinkedIn:** [AgendaFlow | Agendamento Inteligente.](https://www.linkedin.com/company/usequickapp)
+* 💼 **LinkedIn:** [AgendaFlow | Agendamento Inteligente.](https://www.linkedin.com/company/useagendaflow)
 * 📧 **E-mail:** [Contato](mailto:contato@usequickapp.com.br)
 * 🌐 **Instagram:** [@useagendaflow](https://www.instagram.com/useagendaflow)
 
