@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/useagendaflow/.github/blob/main/profile/assets/banner-v1.png?raw=true" alt="banner" width="1080"/>
+  <img src="https://github.com/useagendaflow/.github/blob/main/profile/assets/banner-v1.png?raw=true" width="1080" alt="banner"/>
 </p>
 
 <p></p>
